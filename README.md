@@ -1,13 +1,14 @@
-Hi, I'm Bryan LLontop </p>
-Lenguajes </p>
+<h2 dir="auto"> I'm Bryan Llontop</h2>
+<p dir="auto">Devealoper</p>
+<h3 dir="auto">Languages</h3>
  <a href="https://github.com/BryanLLontop"> 
- <img src="https://camo.githubusercontent.com/6fbcbabf214bba46c303bfb912f00ff620d17eb8783a22cd3b903416162ccaf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d6f72616e67653f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f63657361723472726f796f" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-orange?style=flat&amp;logo=java&amp;logoColor=white&amp;link=https://github.com/cesar4rroyo" style="max-width: 100%;">
+ <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat&amp;logo=java&amp;logoColor=white&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;">
  </a></p>
-Herramientas</p>
-<a href="https://github.com/BryanLLontop"><img src="https://camo.githubusercontent.com/08571e599e5906cc32db3be2fa3c117d46f9f9b50b5b8e99d272f4585915de2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c696e6b3d68747470733a2f2f6769746875622e636f6d2f63657361723472726f796f" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
-<a href="https://github.com/BryanLLontop"><img src="https://camo.githubusercontent.com/bc31a2823e3c6ec4eeba1dfb476b3434efba5afbfbdcec5a98c935f0cd769132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c6174266c6f676f3d626f6f747374726170266c696e6b3d68747470733a2f2f6769746875622e636f6d2f63657361723472726f796f" alt="Oreja" data-canonical-src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&amp;logo=bootstrap&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
-<a href="https://github.com/BryanLLontop"><img src="https://camo.githubusercontent.com/a0bdd07683ab00e5d7feda4cf4cf157867cf57f8b185d1032b659909ccb05ba9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f63657361723472726f796f" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
-<a href="https://github.com/BryanLLontop"><img src="https://camo.githubusercontent.com/a4fb1cc236029f4602214c4bddbe897ca6dfcd86f65b7a8d0d0c595b7ee6c584/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c696e6b3d68747470733a2f2f6769746875622e636f6d2f63657361723472726f796f" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
+<h3 dir="auto">Tools</h3>
+<a href="https://github.com/BryanLLontop"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
+<a href="https://github.com/BryanLLontop"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&amp;logo=bootstrap&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
+<a href="https://github.com/BryanLLontop"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
+<a href="https://github.com/BryanLLontop"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
 
 <!---
 BryanLLontop/BryanLLontop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
