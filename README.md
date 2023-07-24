@@ -2,7 +2,8 @@
 <p dir="auto">Devealoper</p>
 <h3 dir="auto">Languages</h3>
  <a href="https://github.com/BryanLLontop"> 
- <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat&amp;logo=java&amp;logoColor=white&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;">
+ <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat&amp;logo=Java&amp;logoColor=white&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;">
+ <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gold?style=flat&amp;logo=JavaScript&amp;logoColor=white&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;">
  </a>
  <a href="https://github.com/BryanLLontop"> 
  <img alt="php" src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/BryanLLontop" style="max-width: 100%;">
