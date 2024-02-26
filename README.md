@@ -19,6 +19,8 @@
  <a href="https://github.com/BryanLLontop"><img alt="Git" src="https://img.shields.io/badge/-git-orange?style=flat&logo=git&color=%23FFFFFF&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
 <a href="https://github.com/BryanLLontop"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;link=https://github.com/BryanLLontop" style="max-width: 100%;"></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanllontop&show_icons=true&locale=en&layout=compact" alt="bryanllontop" /> </p>
+
 <!---
 BryanLLontop/BryanLLontop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
